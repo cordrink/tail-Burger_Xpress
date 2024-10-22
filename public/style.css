@@ -553,3 +553,11 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4, .arvo {
+  font-family: 'Arvo', sans-serif;
+}
